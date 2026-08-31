@@ -5,11 +5,11 @@ Unity Game Developer with 6+ years of experience building scalable, multiplayer-
 ## About Me
 
 - 🎮 Focused on **multiplayer systems**, **modular game architecture**, and **backend integration** for mobile games
-- 🧩 Built [**FlowIoC**](https://github.com/FlowArc/FlowIoC) — a custom Inversion of Control (IoC) framework for modular Unity architecture
+- 🧩 Built [**FlowIoC**](https://github.com/FlowArc/FlowIoC) — a signal-driven IoC container and modular MVC framework for the Unity Engine.
 - 🚀 Shipped multiplayer mobile titles end-to-end — gameplay systems, matchmaking, clan/social features, and LiveOps
 - 🏗️ Owned client-side architecture decisions and coding standards, leading code reviews across the team
 - 🤖 Built an AI-assisted Unity workflow around Claude Code
-- 📍 Based in Turkey
+
 
 ## Featured Projects
 
