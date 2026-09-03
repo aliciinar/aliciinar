@@ -16,7 +16,6 @@ Unity Game Developer with 6+ years of experience building scalable, multiplayer-
 
 ### [Way of Kings](https://apps.apple.com/tr/app/way-of-kings-tower-defense-td/id6448088997)
 Multiplayer Unity mobile tower-defense game — shipped and live on the App Store. Built the core client-server architecture, matchmaking, clan system, and LiveOps tooling.
-
 </td>
 </tr>
 <tr>
@@ -25,7 +24,14 @@ Multiplayer Unity mobile tower-defense game — shipped and live on the App Stor
 
 ### [FlowArc / FlowIoC](https://github.com/FlowArc/FlowIoC)
 A lightweight, custom Inversion of Control (IoC) framework built for modular, scalable Unity architecture — used as the backbone of dependency management across production game projects.
+</td>
+</tr>
+<tr>
+<td width="72"><img src="https://www.google.com/s2/favicons?domain=bimcrone.com&sz=128" width="56" height="56" alt="BimCrone icon" /></td>
+<td>
 
+### [BimCrone](https://bimcrone.com/)
+Unity project for a construction BIM/digital-twin platform. Built Revit API pipelines to extract and process BIM model data and convert it into 3D visualizations rendered in Unity, plus a custom quantity-takeoff tool (UI, calculation engine, and report export) for automated cost estimation.
 </td>
 </tr>
 </table>
