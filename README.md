@@ -2,7 +2,7 @@
 Unity Game Developer with 6+ years of experience building scalable, multiplayer-ready game systems — from core architecture to backend integration and live production support.
 
 ## About Me
-- 🎮 Focused on **multiplayer systems**, **modular game architecture**, and **backend integration** for mobile games
+- 🎮 Focused on **multiplayer systems**, **modular game architecture** and **game mechanics** for mobile games
 - 🧩 Built [**FlowIoC**](https://github.com/FlowArc/FlowIoC) — a signal-driven IoC container and modular MVC framework for the Unity Engine.
 - 🚀 Shipped multiplayer mobile titles end-to-end — gameplay systems, matchmaking, clan/social features, and LiveOps
 - 🏗️ Owned client-side architecture decisions and coding standards, leading code reviews across the team
